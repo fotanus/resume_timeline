@@ -1,0 +1,54 @@
+{
+  "companies": [
+    {
+      "name": "SAP",
+      "url": "http://www.disney.com",
+      "title": "Senior Developer",
+      "desc" : "This company is good. They offer free coffem cookies and a lot of video-games. I know you always dreamed in work in such place, but instead you are recruiting me to a boring company.",
+      "from": {
+        "year": 2000,
+        "month": 1
+      },
+      "to": {
+        "year": 2001,
+        "month": 1
+      },
+      "projects": [
+        {
+          "name": "Serenity",
+          "url": "wpml.com",
+          "desc": "this is good very good a lot of goodness here",
+          "tags": ["python", "perl", "java", "assembly"]
+        }
+      ]
+    },
+    {
+      "name": "onthego",
+      "url": "http://www.disney.com",
+      "title": "Senior Developer",
+      "desc" : "This company is good",
+      "from": {
+        "year": 2005,
+        "month": 1
+      },
+      "to": {
+        "year": 2008,
+        "month": 1
+      },
+      "projects": [
+        {
+          "name": "WPML",
+          "url": "wpml.com",
+          "desc": "this is good",
+          "tags": ["python", "perl", "java", "assembly"]
+        },
+        {
+          "name": "UML",
+          "url": "wpml.com",
+          "desc": "this is good",
+          "tags": ["python", "perl", "java", "assembly"]
+        }
+      ]
+    }
+  ]
+}
